@@ -4,8 +4,7 @@
 # conf file
 config.py
 
-#test file
-tests/
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
